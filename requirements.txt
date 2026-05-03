@@ -1,0 +1,4 @@
+pyarrow
+pyspark
+mrjob
+requests
