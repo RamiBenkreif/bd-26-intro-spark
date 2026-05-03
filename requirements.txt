@@ -1,4 +1,4 @@
 pyarrow
-pyspark
+pyspark==3.4.4
 mrjob
 requests
